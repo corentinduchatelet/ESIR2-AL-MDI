@@ -21,4 +21,4 @@ Pour le TP3, nous avons simplement réfléchis sur les conceptions possibles du 
 
 * ![Diagramme commande](https://raw.githubusercontent.com/corentinduchatelet/ESIR2-AL-MDI/master/diagramme_commande.jpg)
 
-* ![Diagramme paiement](https://raw.githubusercontent.com/corentinduchatelet/ESIR2-AL-MDI/master/diagramme_paiement.jpg)
+* ![Diagramme paiement](https://raw.githubusercontent.com/corentinduchatelet/ESIR2-AL-MDI/master/diagramme_pizza.jpg)
